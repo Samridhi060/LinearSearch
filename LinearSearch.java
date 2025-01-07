@@ -1,3 +1,7 @@
+// Author : Samridhi Gupta
+// Date : 07/01/2025
+// Topic : Linear Search
+
 import java.util.Scanner;
 
 public class LinearSearch {
